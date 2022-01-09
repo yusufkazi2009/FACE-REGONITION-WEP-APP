@@ -10,7 +10,7 @@ body
 }
 #camera
 {
-    border:2px dashed lightgoldenrodyellow;
+    border:2px dashed rgb(105, 90, 92);
     width: 350px;
     height: 300px;
 }
